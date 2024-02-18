@@ -2,8 +2,8 @@ import pygame
 import os
 import langqian
 import qianfan
-os.environ["QIANFAN_AK"] = "YFvDOQo40EQsZwEHI3GrHmgN"
-os.environ["QIANFAN_SK"] = "QPu2GSFdMmx2SiaraAoIpr37fZgFqdVM"
+os.environ["QIANFAN_AK"] = ""
+os.environ["QIANFAN_SK"] = ""
 
 # 提示词的模板
 from langchain import PromptTemplate
